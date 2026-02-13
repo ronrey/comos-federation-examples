@@ -1,0 +1,13 @@
+{
+  "name": "comos-federation-nodejs-example",
+  "version": "1.0.0",
+  "description": "ComOS Federation Gateway — Node.js quickstart",
+  "main": "quickstart.js",
+  "type": "module",
+  "scripts": {
+    "start": "node quickstart.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}

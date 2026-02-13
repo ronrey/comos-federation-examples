@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "comos-gateway": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://mcp.comos-gateway.com/mcp/sse"]
+    }
+  }
+}
