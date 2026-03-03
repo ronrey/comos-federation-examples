@@ -12,6 +12,9 @@ No setup required — this is a hosted remote MCP server. Connect directly to th
 ## Category
 Business Tools
 
+## Use Cases
+AI Shopping Assistants, Agentic Commerce, Multi-Store Product Search, Automated Checkout, Order Management, Inventory Monitoring, Customer Support Agents, Price Comparison, Product Recommendations, Agent-to-Merchant Integration
+
 ## Features
 - Search product catalogs across multiple live merchant storefronts
 - Add items to cart, update quantities, and manage shopping sessions
